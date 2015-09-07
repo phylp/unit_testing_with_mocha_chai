@@ -1,4 +1,4 @@
-# unit_testing_with_mocha_chai
+# Unit Testing with Mocha and Chai
 
 Unit tests using mocha with chai assertion library. 
 
